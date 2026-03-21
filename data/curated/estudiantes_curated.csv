@@ -1,0 +1,181 @@
+id_estudiante,nombre,edad,correo
+E1000,raúl gómez,26,carlos.castro45@correo.sv
+E1001,ana castro,18,adriana.santos43@gmail.com
+E1002,ricardo vásquez,23,maria.castro23@empresa.com
+E1003,sofía gómez,27,luis.gomez77@correo.sv
+E1004,adriana santos,26,elena.morales56@gmail.com
+E1005,carlos pérez,26,diego.perez25empresa.com
+E1006,valeria martínez,25,luis.romero1@outlook.com
+E1007,ana hernández,22,elena.romero9@empresa.com
+E1008,carmen vásquez,21,daniela.morales85@gmail.com
+E1009,andrés mejía,20,natalia.rivera65@empresa.com
+nan,ana santos,27,adriana.romero42@correo.sv
+E1011,carmen santos,28,kevin.rivera71@outlook.com
+E1012,valeria vásquez,22,carmen.romero86@correo.sv
+E1013,fernando pérez,20,adriana.torres79@empresa.com
+E1014,lucía lópez,21,diego.santos1@empresa.com
+E1015,miguel torres,23,marta.flores56@empresa.com
+E1016,kevin romero,19,fernando.cruz57@outlook.com
+E1017,pedro castro,27,andres.guerrero95@outlook.com
+E1018,sofía flores,27 años,adriana.hernandez37@empresa.com
+E1019,miguel morales,21,carlos.vasquez87@empresa.com
+E1020,maría hernández,24,ricardo.flores19@gmail.com
+E1021,diego gómez,22,luis.vasquez61@gmail.com
+E1022,elena mendoza,29,fernando.romero81@outlook.com
+E1023,daniela castro,18,kevin.rivas64@correo.sv
+nan,gabriela martínez,17,ricardo.ramirez84@gmail.com
+E1025,natalia cruz,24,mario.gomez55@outlook.com
+E1026,paola gómez,26,jose.reyes60@gmail.com
+E1027,andrea rivas,26 años,paola.vasquez16@correo.sv
+E1028,carlos santos,18,sofia.cruz86@empresa.com
+E1029,marta mejía,18,miguel.cruz79@correo.sv
+E1030,mario mendoza,25,oscar.santos58@outlook.com
+E1031,jorge flores,20,natalia.guerrero58@empresa.com
+E1032,kevin hernández,25,miguel.vasquez82@empresa.com
+E1033,luis vásquez,21,miguel.reyes63@outlook.com
+E1034,miguel rivera,19,lucia.cruz10@empresa.com
+nan,carlos vásquez,22,ricardo.castro43@empresa.com
+E1036,patricia gómez,18,mario.santos11@outlook.com
+E1037,diego castro,20,sofia.vasquez50@outlook.com
+E1038,fernando mendoza,22,kevin.flores9@correo.sv
+E1039,josé mendoza,21,valeria.morales70@correo.sv
+E1040,elena flores,19 años,valeria.martinez27@correo.sv
+E1041,adriana castro,24,diego.perez90@gmail.com
+E1042,kevin hernández,30,patricia.perez49@correo.sv
+E1043,daniela torres,25,ana.mendoza39@correo.sv
+E1044,paola vásquez,28,patricia.romero69@outlook.com
+E1045,josé cruz,21,camila.vasquez35@correo.sv
+E1046,diego castro,26,camila.lopez50@empresa.com
+E1047,andrea santos,29,adriana.rivas93@outlook.com
+E1048,ricardo morales,27,oscar.cruz17@gmail.com
+E1049,óscar martínez,25,andrea.rivas76@gmail.com
+E1050,ricardo martínez,17 años,carlos.romero18@correo.sv
+E1051,gabriela morales,27,jose.martinez34@correo.sv
+E1052,diego castro,30,pedro.flores59@empresa.com
+E1053,carlos flores,25,pedro.rivas36@correo.sv
+E1054,andrea pérez,21,lucia.hernandez61@gmail.com
+E1055,mario morales,27,natalia.santos7@empresa.com
+E1056,carmen guerrero,18,ricardo.hernandez84@gmail.com
+E1057,diego cruz,19,miguel.lopez32@outlook.com
+E1058,sofía castro,21,oscar.lopez80@outlook.com
+E1059,sofía vásquez,18,ricardo.ramirez61@gmail.com
+E1060,natalia santos,18,jorge.flores60empresa.com
+E1061,paola castro,28,miguel.mendoza22@gmail.com
+E1062,natalia pérez,25,miguel.torres40@gmail.com
+E1063,valeria pérez,19,jorge.lopez40@correo.sv
+E1064,diego mendoza,21 años,diego.flores10@outlook.com
+E1065,ricardo ramírez,21,maria.rivera88@gmail.com
+E1066,andrés guerrero,26,gabriela.perez6@empresa.com
+E1067,carlos martínez,20,paola.romero85@empresa.com
+E1068,patricia gómez,28,carlos.reyes83@empresa.com
+E1069,sofía torres,22,ana.romero63@gmail.com
+E1070,gabriela romero,20,valeria.mendoza82@correo.sv
+E1071,daniela hernández,27,kevin.ramirez56@outlook.com
+E1072,diego rivas,27,natalia.reyes84@empresa.com
+E1073,daniela cruz,30 años,daniela.santos62@correo.sv
+E1074,andrés castro,21,valeria.perez35@empresa.com
+E1075,paola lópez,25,patricia.vasquez12empresa.com
+E1076,adriana gómez,24 años,mario.cruz32@correo.sv
+E1077,adriana santos,21 años,jorge.mejia86@correo.sv
+E1078,miguel castro,30,pedro.lopez64@empresa.com
+nan,miguel morales,17,jose.guerrero28@empresa.com
+E1080,maría rivera,18,gabriela.castro44@empresa.com
+E1081,valeria torres,27,mario.mejia90@empresa.com
+E1082,fernando lópez,23,paola.lopez67@outlook.com
+E1083,natalia castro,30,carlos.vasquez93@correo.sv
+E1084,andrés torres,21,camila.santos98@outlook.com
+E1085,andrés gómez,17,kevin.guerrero83@correo.sv
+E1086,patricia rivera,17,fernando.lopez12@empresa.com
+E1087,óscar reyes,22,ricardo.rivas89@outlook.com
+E1088,daniela flores,29 años,marta.perez48@correo.sv
+E1089,sofía mendoza,19,paola.reyes45@correo.sv
+E1090,miguel torres,27,natalia.santos43@empresa.com
+E1091,paola reyes,21,kevin.cruz35empresa.com
+E1092,andrea lópez,19,lucia.vasquez16@outlook.com
+E1093,daniela morales,28,pedro.gomez96@outlook.com
+E1094,camila lópez,24,carmen.flores95@correo.sv
+E1095,maría mendoza,25,lucia.perez98@empresa.com
+E1096,mario rivera,28,maria.flores38@outlook.com
+E1097,ricardo martínez,23,elena.torres39gmail.com
+E1098,ricardo pérez,25 años,kevin.santos17@empresa.com
+E1099,carlos hernández,17,luis.martinez71@empresa.com
+E1100,natalia guerrero,18,kevin.ramirez82@correo.sv
+E1101,óscar hernández,18,maria.lopez74empresa.com
+E1102,miguel santos,28,camila.guerrero57@empresa.com
+E1103,miguel ramírez,19,jose.martinez33@correo.sv
+E1104,sofía guerrero,25,maria.hernandez52@correo.sv
+E1105,paola torres,17,carlos.perez81@gmail.com
+E1106,lucía reyes,30,sofia.ramirez73@empresa.com
+E1107,patricia mejía,22,carlos.vasquez16@correo.sv
+E1108,valeria flores,26 años,daniela.mejia80@outlook.com
+E1109,andrea santos,25,miguel.reyes49@correo.sv
+E1110,miguel flores,19,andrea.cruz39@correo.sv
+E1111,kevin rivera,23,marta.perez80@gmail.com
+nan,diego mendoza,19,daniela.gomez98@outlook.com
+E1113,fernando reyes,17 años,raul.flores34@gmail.com
+E1114,fernando gómez,21,jose.vasquez23@gmail.com
+E1115,ricardo vásquez,22,jose.lopez53@correo.sv
+E1116,carlos morales,29 años,kevin.mejia61@empresa.com
+E1117,ana pérez,30,luis.vasquez37@empresa.com
+E1118,paola vásquez,17,kevin.cruz10@outlook.com
+E1119,jorge vásquez,22 años,andrea.castro81@outlook.com
+E1120,ana hernández,20,valeria.gomez70@outlook.com
+E1121,kevin martínez,27,raul.ramirez35@outlook.com
+E1122,ricardo hernández,20,carlos.martinez22@empresa.com
+E1123,mario martínez,27 años,daniela.perez37@correo.sv
+E1124,patricia morales,18,maria.cruz89@empresa.com
+E1125,carlos reyes,22,kevin.rivas35@correo.sv
+E1126,ricardo castro,29,fernando.hernandez77@gmail.com
+E1127,adriana guerrero,25,mario.romero95@empresa.com
+E1128,carmen santos,30,daniela.castro4@gmail.com
+E1129,sofía pérez,23,ricardo.perez76@gmail.com
+E1130,jorge guerrero,26,miguel.castro74@gmail.com
+E1131,ricardo guerrero,28,miguel.torres61@correo.sv
+E1132,gabriela romero,19,andrea.castro24@correo.sv
+E1133,carmen gómez,20,raul.guerrero12@correo.sv
+E1134,maría romero,30,elena.romero43@empresa.com
+E1135,elena romero,19,adriana.gomez21@empresa.com
+E1136,valeria cruz,29,valeria.guerrero37@correo.sv
+E1137,patricia martínez,29,oscar.santos5@correo.sv
+E1138,adriana gómez,19,carlos.morales33@empresa.com
+E1139,luis rivas,23 años,maria.rivas66@gmail.com
+E1140,natalia morales,17,adriana.santos60@correo.sv
+E1141,gabriela gómez,19,luis.flores67@empresa.com
+E1142,ricardo flores,28,daniela.guerrero81@correo.sv
+E1143,carmen santos,22,miguel.martinez27@empresa.com
+E1144,fernando ramírez,29,paola.ramirez37@correo.sv
+E1145,valeria torres,23,mario.guerrero16@gmail.com
+E1146,lucía cruz,29,raul.mejia31outlook.com
+E1147,ricardo hernández,27,marta.santos2correo.sv
+E1148,fernando santos,30,carlos.vasquez15@correo.sv
+E1149,maría martínez,28,maria.ramirez64@empresa.com
+E1150,raúl santos,29 años,andres.castro54@correo.sv
+E1151,óscar lópez,20,camila.vasquez59@outlook.com
+E1152,carlos vásquez,21,diego.flores77@outlook.com
+E1153,josé romero,19,patricia.hernandez36@correo.sv
+E1154,camila guerrero,29,pedro.reyes35@gmail.com
+E1155,carmen rivas,28,marta.rivera76@correo.sv
+E1156,mario martínez,18,patricia.ramirez58@correo.sv
+E1157,josé rivas,23,elena.morales71@correo.sv
+E1158,ana rivas,30,fernando.morales25@outlook.com
+E1159,lucía cruz,17,jorge.rivas30@correo.sv
+nan,marta romero,30,luis.morales96@correo.sv
+E1161,kevin santos,24,kevin.rivas50@outlook.com
+E1162,adriana guerrero,20,camila.martinez17@empresa.com
+E1163,sofía flores,20 años,patricia.gomez57@gmail.com
+E1164,marta flores,30,andres.cruz2@outlook.com
+nan,luis pérez,24,valeria.ramirez10@correo.sv
+E1166,natalia santos,22,gabriela.castro44@correo.sv
+E1167,luis morales,21,raul.hernandez43@correo.sv
+E1168,luis martínez,30,pedro.guerrero70gmail.com
+E1169,jorge guerrero,29,daniela.hernandez31@empresa.com
+E1170,andrés reyes,30,ricardo.hernandez56@gmail.com
+E1171,josé martínez,20,miguel.gomez57@outlook.com
+E1172,andrés hernández,20,kevin.rivera4@gmail.com
+E1173,patricia torres,17 años,pedro.martinez38@empresa.com
+nan,carlos mejía,27,elena.romero19@outlook.com
+E1175,carlos vásquez,20,andres.romero73@outlook.com
+E1176,diego gómez,23 años,jose.torres11@correo.sv
+E1177,mario pérez,22,daniela.vasquez64@outlook.com
+E1178,ricardo pérez,21,ricardo.cruz82@empresa.com
+E1179,daniela martínez,30,fernando.castro86gmail.com
