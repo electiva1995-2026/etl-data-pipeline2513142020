@@ -1,0 +1,13 @@
+id_curso,curso,docente,creditos,motivo_rechazo
+C200,matemática,,3,docente_vacio
+C201,programación,,4,docente_vacio
+C202,base de datos,,4,docente_vacio
+C203,redacción,,4,docente_vacio
+C204,inglés,,5,docente_vacio
+C205,física,,4,docente_vacio
+C206,química,,3 cr,docente_vacio
+C207,historia,,4,docente_vacio
+C208,estadística,,3,docente_vacio
+C209,ética,,3,docente_vacio
+C210,diseño web,,3 cr,docente_vacio
+C211,algoritmos,,5 cr,docente_vacio
