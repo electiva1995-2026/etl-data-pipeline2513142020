@@ -1,0 +1,3 @@
+id_nota,id_estudiante,id_curso,nota,periodo,motivo_rechazo
+N5035,e1054,,7.2,II-2025,id_curso_vacio
+N5124,e1141,,4.8,II-2025,id_curso_vacio
