@@ -1,0 +1,13 @@
+id_curso,curso,docente,creditos
+C200,matemática,lic. hernández,3
+C201,programación,mtra. pérez,4
+C202,base de datos,mtra. rivera,4
+C203,redacción,ing. lópez,4
+C204,inglés,ing. romero,5
+C205,física,mtra. pérez,4
+C206,química,lic. morales,3 cr
+C207,historia,mtra. rivera,4
+C208,estadística,lic. castro,3
+C209,ética,mtra. rivera,3
+C210,diseño web,mtra. pérez,3 cr
+C211,algoritmos,ing. romero,5 cr
